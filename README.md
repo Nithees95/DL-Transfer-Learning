@@ -296,4 +296,4 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 
 ## RESULT
-Include your result here
+Thus the python program to develop an image classification model using transfer learning with VGG19 architecture is executed successfully.
